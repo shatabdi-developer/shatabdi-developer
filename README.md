@@ -8,12 +8,6 @@
 
 <br/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=111827&label=FOLLOWERS" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Open%20to-Learning%20%26%20Collaboration-6C63FF?style=for-the-badge" alt="Open to learning and collaboration"/>
-</p>
-
 </div>
 
 ✦ About Me
@@ -241,9 +235,6 @@ Keep improving.
 
 Thanks for visiting my profile.
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/Explore%20my%20repositories-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories"/>
-</a>
 
 <br/><br/>
 
