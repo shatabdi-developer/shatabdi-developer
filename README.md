@@ -1,135 +1,252 @@
 <div align="center">
 
-Shatabdi Datta Sristy
+<!-- ANIMATED HEADER -->
 
-Computer Science & Engineering Student | AI & Software Development
+<a href="https://github.com/">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=760&lines=B.Tech+Computer+Science+%26+Engineering+Student;AI+%26+Agentic+AI+Enthusiast;Web+Developer+%7C+Builder+%7C+Lifelong+Learner;Turning+Ideas+into+Practical+Technology" alt="Typing SVG" />
+</a>
+
+<br/>
 
 <p>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-111827?style=for-the-badge" alt="Artificial Intelligence">
-  <img src="https://img.shields.io/badge/Interests-Agentic%20AI%20%7C%20Automation%20%7C%20Web-111827?style=for-the-badge" alt="Interests">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=111827&label=FOLLOWERS" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Open%20to-Learning%20%26%20Collaboration-6C63FF?style=for-the-badge" alt="Open to learning and collaboration"/>
 </p>
 
 </div>
 
-About
+✦ About Me
 
-I am a 3rd-year B.Tech Computer Science & Engineering student at Sharda University, focused on building a strong foundation in software development while exploring the rapidly evolving field of Artificial Intelligence and Agentic AI.
+<table>
+<tr>
+<td width="58%" valign="top">
 
-I am interested in turning ideas into practical solutions, learning through real-world projects, collaborating with teams, and developing the technical depth required to work on impactful technology.
+I'm Shatabdi Datta Sristy, a 3rd-year B.Tech Computer Science & Engineering student at Sharda University.
 
-Currently, I am focused on:
+I enjoy learning by building. My current journey is centered around Artificial Intelligence, Agentic AI, web application development, automation, and practical software engineering.
 
-Artificial Intelligence and Agentic AI
+I am especially interested in understanding how modern AI systems can be turned into useful, reliable products that solve real-world problems.
 
-Web Application Development
+</td>
 
-Automation and AI-powered workflows
+<td width="42%" valign="top">
 
-Software engineering fundamentals
+Currently
 
-Problem solving and technical communication
+🎓 Education
+B.Tech CSE · Sharda University
 
-Education
+🤖 Focus
+AI · Agentic AI · Automation
 
-Sharda University
-B.Tech — Computer Science & Engineering
-2024 – Present
+💻 Building
+Web applications · AI-powered workflows
 
-Current: 3rd Year
+🌱 Improving
+Software fundamentals · Problem solving · Communication
 
-Experience
+🚀 Approach
+Learn → Build → Test → Improve
 
-Web Application Development Intern
+</td>
+</tr>
+</table>
 
-Provatsoft Ecosystem
+⚡ What I Work On
 
-Completed a 2-month internship involving practical exposure to:
+<table>
+<tr>
+<td align="center" width="25%">
 
-Web application development
+🤖
 
-Product and feature development
+Artificial Intelligence
 
-Database-backed applications
+Exploring Generative AI, AI agents and intelligent systems.
 
-AI tool exploration
+</td>
+<td align="center" width="25%">
 
-Project presentations and team collaboration
+🧩
+
+Agentic AI
+
+Learning how agents reason, use tools and automate multi-step tasks.
+
+</td>
+<td align="center" width="25%">
+
+💻
+
+Web Development
+
+Building practical, responsive web applications.
+
+</td>
+<td align="center" width="25%">
+
+⚙️
+
+Automation
+
+Exploring AI-powered workflows and productivity systems.
+
+</td>
+</tr>
+</table>
+
+🛠️ Tech Stack
+
+Languages
+
+<p>
+<img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
+<img src="https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+</p>
+
+Frameworks & Tools
+
+<p>
+<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
+<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/n8n-111827?style=for-the-badge&logo=n8n&logoColor=EA4B71"/>
+</p>
+
+<p><sub>My stack is evolving continuously through projects, internships, coursework and hands-on experimentation.</sub></p>
+
+💼 Experience
+
+Web Application Development Intern · Provatsoft Ecosystem
+
+2-Month Internship · Completed
+
+During my internship, I worked in a practical product-development environment and gained exposure to:
+
+Web application development and product implementation
+
+Database-backed application workflows
+
+AI tool exploration and AI-powered solution ideas
+
+Team collaboration, project discussions and technical presentations
 
 Product operations and technology workflows
 
 Server management and cPanel fundamentals
 
-Technical Interests
+Key takeaway: building a product is not only about writing code — it is about understanding the problem, designing the experience, and delivering something useful.
 
-Artificial Intelligence
-Agentic AI & AI Agents
-Web Development
-Automation
-Software Engineering
-Product Development
-Emerging Technologies
-
-Tools & Technologies
-
-Languages
-
-C C++ Python JavaScript HTML CSS
-
-Web & Backend
-
-React Next.js Supabase
-
-Development
-
-Git GitHub REST APIs
-
-Exploring
-
-Generative AI Agentic AI n8n AI Automation Cloud Technologies
-
-I am continuously strengthening these skills through coursework, projects, internships, and hands-on experimentation.
-
-Professional Interests
-
-I am particularly interested in opportunities related to:
-
-AI Engineering · Agentic AI · Software Development · Automation · Product Engineering · Technology Research
-
-My long-term goal is to build technically strong, useful products and pursue advanced work in Artificial Intelligence and emerging technologies.
-
-Hackathons & Collaboration
-
-I actively participate in hackathons, technical projects, and collaborative initiatives to improve my ability to:
-
-Understand real-world problems
-
-Design practical solutions
-
-Work effectively in teams
-
-Present technical ideas clearly
-
-Learn and adapt quickly
-
-Current Learning
-
-AI & Agentic Systems      →   Deepening fundamentals
-Web Development           →   Building practical applications
-Automation                →   Exploring AI workflows
-Software Engineering      →   Strengthening core concepts
-Problem Solving           →   Improving through practice
-
-GitHub Philosophy
-
-Build with purpose. Learn continuously. Improve consistently.
-
-This profile is a record of my learning journey, experiments, and progress as I grow into a stronger software and AI-focused engineer.
+🧠 Current Learning Roadmap
 
 <div align="center">
 
-Let's build something meaningful.
+Area
+
+Direction
+
+🤖 AI
+
+Fundamentals → Applied AI
+
+🧩 Agentic AI
+
+Agents → Tools → Workflows
+
+💻 Web
+
+Frontend → Full-stack
+
+⚙️ Automation
+
+Workflows → AI automation
+
+🧱 Engineering
+
+Core CS → Better software practices
+
+🎤 Communication
+
+Clearer technical communication
+
+</div>
+
+📊 GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=6C63FF&icon_color=6C63FF&text_color=6B7280" alt="GitHub stats"/>
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=6C63FF&text_color=6B7280" alt="Top languages"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub streak"/>
+</a>
+
+</div>
+
+🌐 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=ffffff00&color=6C63FF&line=6C63FF&point=111827&area=true&hide_border=true" alt="Contribution activity graph"/>
+
+</div>
+
+🏆 Highlights
+
+<table>
+<tr>
+<td>🎓</td>
+<td><strong>Computer Science Education</strong><br/>B.Tech CSE · Sharda University</td>
+</tr>
+<tr>
+<td>💼</td>
+<td><strong>Industry Exposure</strong><br/>Completed Web Application Development Internship</td>
+</tr>
+<tr>
+<td>🏁</td>
+<td><strong>Hackathons</strong><br/>Actively participating in technical competitions and team-based problem solving</td>
+</tr>
+<tr>
+<td>🤖</td>
+<td><strong>AI Direction</strong><br/>Building toward AI, Agentic AI and automation-focused engineering</td>
+</tr>
+</table>
+
+✨ My Engineering Mindset
+
+<div align="center">
+
+Build things that are useful.
+Learn the fundamentals.
+Stay curious.
+Keep improving.
+
+</div>
+
+<div align="center">
+
+Thanks for visiting my profile.
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://img.shields.io/badge/Explore%20my%20repositories-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories"/>
+</a>
+
+<br/><br/>
+
+<sub>Designed to grow with my journey in software and AI.</sub>
 
 </div>
